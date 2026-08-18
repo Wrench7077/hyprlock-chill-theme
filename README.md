@@ -1,6 +1,9 @@
 # hyprlock-chill-theme
 a simple and chill hyprlock theme for all the chill guys out there to enjoy
 
+<img width="1920" height="1080" alt="1787070199_grim" src="https://github.com/user-attachments/assets/5c6c9d55-31e7-468e-9228-391dc9c54693" />
+
+
 inspired by and matching ( kitty Base2Tone Desert Dark )
 
 the font I'm using, needs a little bit of setup ( instructions for the font are given in step 5 )
