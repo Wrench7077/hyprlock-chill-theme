@@ -3,7 +3,7 @@ a simple and chill hyprlock theme for all the chill guys out there to enjoy
 
 inspired by and matching ( kitty Base2Tone Desert Dark )
 
-the font I'm using, needs a little bit of setup ( instructions for the font are at the end of this page )
+the font I'm using, needs a little bit of setup ( instructions for the font are given in step 5 )
 
 to install this theme 
 
@@ -24,9 +24,18 @@ sudo mkdir ~/.config/hypr/wallpaper && sudo cp hyprlock-chill-theme/hyprlock-bac
 
 ( or just put it wherever you want and give it directions within the hyprlock.conf file if you're an advanced user and you know what you're doing )
 
-4-make a directory within .config folder named (scripts) and copy the script for song information ( background player ) into .config folder 
+4-make a directory within .config folder named (scripts) and copy the script for player information into .config folder 
 
 ```
-sudo mkdir ~/.config/hypr/scripts/ && sudo cp hyprlock-chill-theme/songdetail.sh ~/.config/hypr/scripts/
+sudo mkdir ~/.config/hypr/scripts/ && sudo cp hyprlock-chill-theme/playerinfo.sh ~/.config/hypr/scripts/
 ```
 
+5-copy the fonts needed for our chill theme
+```
+sudo cp hyprlock-chill-theme/KatahdinRound-Bold.otf /usr/share/fonts/OTF/ && hyprlock-chill-theme/KatahdinRound-Bold.ttf /usr/share/fonts/TTF/
+```
+
+
+and there you go, all done. 
+
+enjoy your new hyprlock theme.
