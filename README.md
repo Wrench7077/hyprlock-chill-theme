@@ -13,35 +13,35 @@ you can see the media control placement in the picture below
 to use media control buttons just simply click on them with hide_cursor option set to false in the config file
 
 
-\n
-the font I'm using, needs a little bit of setup ( instructions for the font are given in step 5 )
 
-to install this theme 
+###the font I'm using, needs a little bit of setup ( instructions for the font are given in step 5 )
 
-1-clone this repository
+##to install this theme 
+
+##1-clone this repository
 ```
 git clone https://github.com/Wrench7077/hyprlock-chill-theme.git
 ```
 
-2-copy the hyprlock.conf file in .config folder in your home folder
+##2-copy the hyprlock.conf file in .config folder in your home folder
 ```
 sudo cp hyprlock-chill-theme/hyprlock.conf ~/.config/hypr/
 ```
 
-3-make a folder within .config folder named wallpaper to stay organized and copy the background image to wallpaper folder for easy access 
+##3-make a folder within .config folder named wallpaper to stay organized and copy the background image to wallpaper folder for easy access 
 ```
 sudo mkdir ~/.config/hypr/wallpaper && sudo cp hyprlock-chill-theme/hyprlock-background.jpg ~/.config/hypr/wallpaper
 ```
 
 ( or just put it wherever you want and give it directions within the hyprlock.conf file if you're an advanced user and you know what you're doing )
 
-4-make a directory within .config folder named (scripts) and copy the script for player information into .config folder 
+##4-make a directory within .config folder named (scripts) and copy the script for player information into .config folder 
 
 ```
 sudo mkdir ~/.config/hypr/scripts/ && sudo cp hyprlock-chill-theme/playerinfo.sh ~/.config/hypr/scripts/
 ```
 
-5-copy the fonts needed for our chill theme
+##5-copy the fonts needed for our chill theme
 ```
 sudo cp hyprlock-chill-theme/KatahdinRound-Bold.otf /usr/share/fonts/OTF/ && hyprlock-chill-theme/KatahdinRound-Bold.ttf /usr/share/fonts/TTF/
 ```
