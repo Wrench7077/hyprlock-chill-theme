@@ -6,7 +6,7 @@ a simple and chill hyprlock theme for all the chill guys out there to enjoy
 
 inspired by and matching ( kitty Base2Tone Desert Dark )
 
-## to use media controls with touch and mouse edit hyprlock.conf file and set ( hide_cursor ) to false at line 24
+### to use media controls with touch and mouse edit hyprlock.conf file and set ( hide_cursor ) to false at line 24
 you can see the media control placement in the picture below 
 
 <img width="1920" height="1080" alt="1787125373_grim" src="https://github.com/user-attachments/assets/10cf687b-b6c8-4fbb-89ab-0b94ef126f9d" />
