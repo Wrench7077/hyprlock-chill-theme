@@ -1,7 +1,8 @@
 # hyprlock-chill-theme
 a simple and chill hyprlock theme for all the chill guys out there to enjoy
 
-<img width="1920" height="1080" alt="1787070199_grim" src="https://github.com/user-attachments/assets/5c6c9d55-31e7-468e-9228-391dc9c54693" />
+<img width="1920" height="1080" alt="1787127255_grim" src="https://github.com/user-attachments/assets/604fed6d-6022-4e39-86a3-3a0c4fea0d86" />
+
 
 
 inspired by and matching ( kitty Base2Tone Desert Dark )
@@ -9,7 +10,9 @@ inspired by and matching ( kitty Base2Tone Desert Dark )
 ### to use media controls with touch and mouse edit hyprlock.conf file and set ( hide_cursor ) to false at line 24
 you can see the media control placement in the picture below 
 
-<img width="1920" height="1080" alt="1787125373_grim" src="https://github.com/user-attachments/assets/10cf687b-b6c8-4fbb-89ab-0b94ef126f9d" />
+<img width="1920" height="1080" alt="1787126948_grim" src="https://github.com/user-attachments/assets/7fa85417-86a3-431d-9298-551146e5dcdb" />
+
+
 to use media control buttons just simply click on them with hide_cursor option set to false in the config file
 
 
