@@ -13,7 +13,7 @@ you can see the media control placement in the picture below
 to use media control buttons just simply click on them with hide_cursor option set to false in the config file
 
 
-
+\n
 the font I'm using, needs a little bit of setup ( instructions for the font are given in step 5 )
 
 to install this theme 
